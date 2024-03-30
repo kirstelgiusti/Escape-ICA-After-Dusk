@@ -34,12 +34,20 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"oDialogSample","path":"objects/oDialogSample/oDialogSample.yy",},},
     {"id":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},},
+    {"id":{"name":"Dialogue","path":"scripts/Dialogue/Dialogue.yy",},},
+    {"id":{"name":"obj_alarm","path":"objects/obj_alarm/obj_alarm.yy",},},
+    {"id":{"name":"oDialogParent","path":"objects/oDialogParent/oDialogParent.yy",},},
+    {"id":{"name":"spr_character_player","path":"sprites/spr_character_player/spr_character_player.yy",},},
+    {"id":{"name":"spr_library","path":"sprites/spr_library/spr_library.yy",},},
+    {"id":{"name":"spr_bruce","path":"sprites/spr_bruce/spr_bruce.yy",},},
     {"id":{"name":"spr_start","path":"sprites/spr_start/spr_start.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_alarm","path":"sprites/spr_alarm/spr_alarm.yy",},},
+    {"id":{"name":"rm_library","path":"rooms/rm_library/rm_library.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_library","path":"rooms/rm_library/rm_library.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
