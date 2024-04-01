@@ -24,6 +24,7 @@
     {"name":"spr_character_player","order":3,"path":"sprites/spr_character_player/spr_character_player.yy",},
     {"name":"spr_library","order":1,"path":"sprites/spr_library/spr_library.yy",},
     {"name":"rm_library","order":1,"path":"rooms/rm_library/rm_library.yy",},
+    {"name":"obj_pause","order":5,"path":"objects/obj_pause/obj_pause.yy",},
     {"name":"spr_bruce","order":4,"path":"sprites/spr_bruce/spr_bruce.yy",},
     {"name":"spr_alarm","order":2,"path":"sprites/spr_alarm/spr_alarm.yy",},
   ],

@@ -1,4 +1,3 @@
-if (global.show_dialogue) {
    
 
 if(showing_dialog == false) {
@@ -19,5 +18,4 @@ else {
 }
 
 
-}
 

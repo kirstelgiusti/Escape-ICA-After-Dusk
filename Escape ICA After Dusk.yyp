@@ -43,6 +43,7 @@
     {"id":{"name":"spr_character_player","path":"sprites/spr_character_player/spr_character_player.yy",},},
     {"id":{"name":"spr_library","path":"sprites/spr_library/spr_library.yy",},},
     {"id":{"name":"rm_library","path":"rooms/rm_library/rm_library.yy",},},
+    {"id":{"name":"obj_pause","path":"objects/obj_pause/obj_pause.yy",},},
     {"id":{"name":"spr_bruce","path":"sprites/spr_bruce/spr_bruce.yy",},},
     {"id":{"name":"spr_start","path":"sprites/spr_start/spr_start.yy",},},
     {"id":{"name":"spr_alarm","path":"sprites/spr_alarm/spr_alarm.yy",},},
