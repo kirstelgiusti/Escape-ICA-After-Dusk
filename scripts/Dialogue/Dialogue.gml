@@ -1,5 +1,5 @@
 // dialogue for opening scene
-function dialogue() constructor {
+function Dialogue() constructor {
 	
 	_dialogs = [];
 	
