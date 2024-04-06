@@ -59,6 +59,7 @@
     {"id":{"name":"spr_library","path":"sprites/spr_library/spr_library.yy",},},
     {"id":{"name":"rm_library","path":"rooms/rm_library/rm_library.yy",},},
     {"id":{"name":"spr_bruce","path":"sprites/spr_bruce/spr_bruce.yy",},},
+    {"id":{"name":"spr_bruce_book","path":"sprites/spr_bruce_book/spr_bruce_book.yy",},},
     {"id":{"name":"spr_start","path":"sprites/spr_start/spr_start.yy",},},
     {"id":{"name":"spr_alarm","path":"sprites/spr_alarm/spr_alarm.yy",},},
     {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},

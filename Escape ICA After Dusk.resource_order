@@ -39,6 +39,7 @@
     {"name":"spr_library","order":1,"path":"sprites/spr_library/spr_library.yy",},
     {"name":"rm_library","order":1,"path":"rooms/rm_library/rm_library.yy",},
     {"name":"spr_bruce","order":4,"path":"sprites/spr_bruce/spr_bruce.yy",},
+    {"name":"spr_bruce_book","order":9,"path":"sprites/spr_bruce_book/spr_bruce_book.yy",},
     {"name":"spr_alarm","order":2,"path":"sprites/spr_alarm/spr_alarm.yy",},
   ],
 }
