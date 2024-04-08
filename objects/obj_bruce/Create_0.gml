@@ -1,8 +1,7 @@
 
-x = 519;
+x = 500;
 
-y = 877;
-
+y = 860;
 
 // Initialize spacebar_count
 spacebar_count = 0;
