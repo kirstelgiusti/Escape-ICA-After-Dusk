@@ -1,3 +1,4 @@
+draw_set_font(fnt_pause);
 
 if(showing_dialog == true) {
 var text_x = 30;
