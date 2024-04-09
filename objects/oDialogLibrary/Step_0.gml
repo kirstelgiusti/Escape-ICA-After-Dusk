@@ -1,4 +1,4 @@
-  
+//parent code
 
 if(showing_dialog == false) {
 	if(dialog.count() <= 0) {
@@ -16,6 +16,4 @@ else {
 		showing_dialog = false;
 		alpha = 0;}
 }
-
-
 

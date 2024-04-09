@@ -1,6 +1,4 @@
 
-//errors here// 
-
 if(showing_dialog == true) {
 var text_x = 30;
 var text_y = 18;

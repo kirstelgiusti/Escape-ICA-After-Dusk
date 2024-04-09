@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_book",
+  "name": "obj_computer",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
   ],
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_book",
-    "path": "sprites/spr_book/spr_book.yy",
+    "name": "spr_computer",
+    "path": "sprites/spr_computer/spr_computer.yy",
   },
   "spriteMaskId": null,
   "visible": true,

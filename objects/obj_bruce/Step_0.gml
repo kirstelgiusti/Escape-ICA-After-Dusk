@@ -4,8 +4,8 @@ if (keyboard_check_pressed(vk_space)) {
     
     // Check if the spacebar has been pressed 7 times
     if (spacebar_count >= 7) {
-        x = 1566;
-        y = 738;
+        x = 1500;
+        y = 690;
 		
 	 // Reset the spacebar counter
      spacebar_count = 0;
