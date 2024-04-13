@@ -4,7 +4,7 @@
   "name": "spr_computer",
   "bbox_bottom": 62,
   "bbox_left": 4,
-  "bbox_right": 61,
+  "bbox_right": 60,
   "bbox_top": 1,
   "bboxMode": 0,
   "collisionKind": 1,
