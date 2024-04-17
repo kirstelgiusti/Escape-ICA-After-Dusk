@@ -1,4 +1,4 @@
 /// change sprite when the player is holding the spoon
 
-sprite_index = spr_spoon_full; 
+sprite_index = spr_spoon_pressed; 
 
