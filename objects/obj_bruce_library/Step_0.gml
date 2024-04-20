@@ -1,3 +1,4 @@
+
 // Check if spacebar is pressed
 if (keyboard_check_pressed(vk_space)) {
     spacebar_count += 1;

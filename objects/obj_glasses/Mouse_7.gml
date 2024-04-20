@@ -1,9 +1,12 @@
-
 //dragging code 
 
 dragged=false; 
 
-// snap back to place 
+//original co ordinates
+//x=470;
+//y=450;
 
-x=470;
-y=450;
+
+//snap on the mannequin
+	x = 820;
+    y = 274;

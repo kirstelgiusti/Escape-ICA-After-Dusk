@@ -1,11 +1,16 @@
-sprite_index = spr_wig; 
+sprite_index = spr_wig_pressed; 
 
 
 //dragging code 
 
 dragged=false; 
 
-// snap back to place 
 
-x=1590;
-y=190;
+//original co ordinates
+// x=1590;
+// y=190;
+
+
+//snap on the mannequin
+	x = 815;
+    y = 222;
