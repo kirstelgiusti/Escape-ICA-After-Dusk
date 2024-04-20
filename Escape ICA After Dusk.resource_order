@@ -36,7 +36,6 @@
     {"name":"obj_button_continue","order":6,"path":"objects/obj_button_continue/obj_button_continue.yy",},
     {"name":"obj_passcode","order":15,"path":"objects/obj_passcode/obj_passcode.yy",},
     {"name":"spr_note","order":8,"path":"sprites/spr_note/spr_note.yy",},
-    {"name":"Sprite_Original","order":16,"path":"sprites/Sprite_Original/Sprite_Original.yy",},
     {"name":"obj_pause","order":9,"path":"objects/obj_pause/obj_pause.yy",},
     {"name":"obj_button_credits","order":7,"path":"objects/obj_button_credits/obj_button_credits.yy",},
     {"name":"obj_note","order":12,"path":"objects/obj_note/obj_note.yy",},
