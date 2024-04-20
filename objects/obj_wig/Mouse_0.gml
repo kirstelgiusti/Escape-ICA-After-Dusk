@@ -1,2 +1,5 @@
-sprite_index = spr_wig_pressed; 
+ 
 
+
+// if clicked 
+placed_on_mannequin = true;

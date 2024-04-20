@@ -16,4 +16,5 @@ if (place_meeting(x, y, obj_mannequin)) {
     // Snap the dragged object to the mannequin
 	x = 815;
     y = 222;
+	placed_on_mannequin = true;
 }

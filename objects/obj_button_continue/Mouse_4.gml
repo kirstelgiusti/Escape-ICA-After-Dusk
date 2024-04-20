@@ -1,6 +1,1 @@
-// Inherit the parent event
-event_inherited();
-
-room_goto_previous();
-
-
+room_goto_previous()
