@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_microwave",
-  "bbox_bottom": 51,
-  "bbox_left": 0,
-  "bbox_right": 63,
+  "bbox_bottom": 47,
+  "bbox_left": 1,
+  "bbox_right": 58,
   "bbox_top": 12,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5a771297-1319-4f34-8c54-019839ed3002",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"66d2088b-d35c-44d2-9f0f-8a454e33d60d",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 64,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"acf5a404-541e-4bb6-9831-2d5a89e7b5ec","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1bac5b79-2f2f-4122-9c7e-69d1da3faba7","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5a771297-1319-4f34-8c54-019839ed3002","path":"sprites/spr_microwave/spr_microwave.yy",},},},"Disabled":false,"id":"38f63339-24c3-43b2-b77f-2f2e3dbd537d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"66d2088b-d35c-44d2-9f0f-8a454e33d60d","path":"sprites/spr_microwave/spr_microwave.yy",},},},"Disabled":false,"id":"cd98eb08-f8b4-4b65-bd0d-29c11e2749cc","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

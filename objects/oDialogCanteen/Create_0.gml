@@ -4,8 +4,8 @@
 event_inherited();
 dialog.add(spr_character_player, "Oh the vending machines turned on.");
 dialog.add(spr_bruce, "Meow");
-dialog.add(spr_character_player, "Bruce! What's that on your collar?!");
+dialog.add(spr_character_player, "Looks like something else fell with your food Bruce.");
 dialog.add(spr_bruce, "Meow!");
-dialog.add(spr_character_player, "You had the key to the canteen all along?!");
+dialog.add(spr_character_player, "I wonder what it opens..");
 
 

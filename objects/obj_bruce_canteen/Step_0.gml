@@ -4,14 +4,14 @@ if (keyboard_check_pressed(vk_space)) {
     
     // Check if the spacebar has been pressed 7 times
     if (spacebar_count >= 2) {
-        x = 454;
-        y = 725;
+        x = 505;
+        y = 814;
 		
 	 // Reset the spacebar counter
      spacebar_count = 0;
 	 
 	 //change sprite
-	 sprite_index = spr_bruce_up; 
+	 sprite_index = spr_bruce_eat; 
 		
     }
 }

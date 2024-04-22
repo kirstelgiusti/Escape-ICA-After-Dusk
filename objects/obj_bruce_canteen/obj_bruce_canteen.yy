@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_bruce_down",
-    "path": "sprites/spr_bruce_down/spr_bruce_down.yy",
+    "name": "spr_bruce_up",
+    "path": "sprites/spr_bruce_up/spr_bruce_up.yy",
   },
   "spriteMaskId": null,
   "visible": true,
