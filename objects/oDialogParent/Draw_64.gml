@@ -16,6 +16,9 @@ height += padding * 2;
 text_x = sprite_get_width(current_dialog.sprite) + (padding * 2);
 
 draw_set_alpha(alpha);
+draw_set_halign(fa_left);
+draw_set_valign(fa_top);
+
 
 //box draw instructions
 
@@ -32,6 +35,8 @@ draw_sprite(current_dialog.sprite, 0, border * 3, border * 3);
 
 draw_set_color(c_white);
 draw_text_ext(text_x, text_y, current_dialog.message, 16, display_get_gui_width() - 192);
+
+draw_text(1510, 93, ">> Press space to continue >>");
 
 alpha = lerp(alpha, 1, 0.06); 
 

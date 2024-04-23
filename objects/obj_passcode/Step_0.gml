@@ -1,7 +1,7 @@
 //input (keys pressed)
 
 if(keyboard_check(vk_anykey) and string_length(text) < 4) {
-	text = text+string(keyboard_string);
+	text = text + keyboard_string;
 	keyboard_string = "";
 }
 
@@ -9,13 +9,6 @@ if(keyboard_check(vk_anykey) and string_length(text) < 4) {
 if(keyboard_check_pressed(vk_backspace)) {
 	text = string_delete(text,string_length(text),1);
 	keyboard_string = "";
-	delete_timer =-4;
-}
-
-// timer update
-
-if(delete_timer != 2) {
-	delete_timer ++;
 }
 
 // Check if password is correct
