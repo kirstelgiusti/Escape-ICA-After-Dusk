@@ -2,7 +2,7 @@
 
 dragged=false; 
 
-//snap back in place 
+//snap back in place when released (not on the lock)
 
 x = 415;
 y = 841; 

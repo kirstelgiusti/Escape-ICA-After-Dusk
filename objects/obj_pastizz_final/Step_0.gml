@@ -11,8 +11,8 @@ y=mouse_y+yy;
 }
 
 
-// Check if the dragged object is overlapping the mannequin
+// Check if the dragged object is overlapping the security's hand
 if (place_meeting(x, y, obj_hand)) {
-   //open shutter
+   //go to ending scene
 	room_goto(rm_freedom);
 }

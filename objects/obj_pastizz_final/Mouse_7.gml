@@ -2,7 +2,6 @@
 
 dragged=false; 
 
-//snap on the lock
-
-x = 1390;
-y = 817;
+//snap on back to place
+x = 1732;
+y = 995;

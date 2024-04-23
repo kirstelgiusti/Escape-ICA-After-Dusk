@@ -2,9 +2,8 @@
 if (keyboard_check_pressed(vk_space)) {
     spacebar_count += 1;
     
-    // Check if the spacebar has been pressed 7 times
+    // Check if the spacebar has been pressed 2 times
     if (spacebar_count >= 2) {
-		alarm[0] = 120;
         image_alpha = 1;
 		
 	 // Reset the spacebar counter
