@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_canteen",
-  "bbox_bottom": 1079,
+  "bbox_bottom": 2671,
   "bbox_left": 0,
-  "bbox_right": 1919,
+  "bbox_right": 4758,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"eb556ad2-d1db-472f-9bed-1366825ece46",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"84d80f2f-9b44-4106-8828-4804c8135cc6",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 1080,
+  "height": 2672,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"bcad7f43-abeb-4983-9169-ec5533bb92a8","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b4b8de17-1011-435b-8666-4f157dae6441","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"eb556ad2-d1db-472f-9bed-1366825ece46","path":"sprites/spr_canteen/spr_canteen.yy",},},},"Disabled":false,"id":"dda00c61-e5a8-4b35-be13-2a6a39dde49a","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"84d80f2f-9b44-4106-8828-4804c8135cc6","path":"sprites/spr_canteen/spr_canteen.yy",},},},"Disabled":false,"id":"01d11cfc-8b4e-4836-b78c-74750000dac3","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1920,
+  "width": 4759,
 }

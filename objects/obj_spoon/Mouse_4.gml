@@ -7,3 +7,6 @@ sprite_index = spr_spoon_pressed;
 dragged=true;
 xx=x-mouse_x;
 yy=y-mouse_y;
+
+
+
