@@ -13,5 +13,6 @@ dragged=true;
 	x = 820;
     y = 274;
 	dragged = false;
+	placed_on_mannequin = true;
 }
 

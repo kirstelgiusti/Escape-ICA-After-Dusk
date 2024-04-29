@@ -1,8 +1,8 @@
 //dragging code 
 
-dragged=false; 
+dragged=true; 
 
-//snap back in place when released (not on the lock)
+//original co ordinates
 
-x = 415;
-y = 841; 
+// x = 415;
+// y = 841; 

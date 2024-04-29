@@ -16,5 +16,6 @@ if (place_meeting(x, y, obj_mannequin)) {
 	x = 760;
     y = 540;
 	image_angle = 270;
-	dragged = false;	
+	dragged = false;
+	placed_on_mannequin = true;
 }
