@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Computer Room Objects",
+    "path": "folders/Objects/Computer Room Objects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
