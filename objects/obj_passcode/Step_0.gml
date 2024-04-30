@@ -1,14 +1,7 @@
 //input (keys pressed)
-
-if(keyboard_check(vk_anykey) and string_length(text) < 4) {
-	text = text + keyboard_string;
-	keyboard_string = "";
-}
-
-//allows player to erase characters written
-if(keyboard_check_pressed(vk_backspace)) {
-	text = string_delete(text,string_length(text),1);
-	keyboard_string = "";
+if(keyboard_check(vk_anykey) and string_length(keyboard_string) > 4) {
+	keyboard_string = string_delete(keyboard_string, 5, 1);
+	show_debug_message(keyboard_string);
 }
 
 // Check if password is correct
@@ -25,7 +18,8 @@ if keyboard_check_pressed(vk_enter)
 		alarm[0] = 90
 	}
 }
-		
+
+
   
   
   
@@ -38,3 +32,4 @@ if keyboard_check_pressed(vk_enter)
         }
     }
 }
+
