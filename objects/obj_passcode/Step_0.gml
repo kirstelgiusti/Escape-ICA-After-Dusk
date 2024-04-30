@@ -7,7 +7,7 @@ if(keyboard_check(vk_anykey) and string_length(keyboard_string) > 4) {
 // Check if password is correct
 if keyboard_check_pressed(vk_enter)
 {
-	if (text == correct_passcode)
+	if (keyboard_string == correct_passcode)
 	{
 		room_goto(rm_staffroom);
 	} 
