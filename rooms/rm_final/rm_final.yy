@@ -10,12 +10,12 @@
     {"name":"inst_5ED4721B","path":"rooms/rm_final/rm_final.yy",},
     {"name":"inst_29696FB1","path":"rooms/rm_final/rm_final.yy",},
     {"name":"inst_73153C68","path":"rooms/rm_final/rm_final.yy",},
-    {"name":"inst_481A6F87","path":"rooms/rm_final/rm_final.yy",},
+    {"name":"inst_65E24467","path":"rooms/rm_final/rm_final.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"dialogue","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_481A6F87","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oDialogFinal","path":"objects/oDialogFinal/oDialogFinal.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-69.0,"y":41.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_65E24467","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oDialogFinal","path":"objects/oDialogFinal/oDialogFinal.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-80.0,"y":56.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"hand","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_73153C68","colour":4294967295,"frozen":true,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_hand","path":"objects/obj_hand/obj_hand.yy",},"properties":[],"rotation":0.0,"scaleX":3.9966364,"scaleY":3.9966366,"x":0.0,"y":0.90808105,},

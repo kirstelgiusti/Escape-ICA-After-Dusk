@@ -1,4 +1,4 @@
 
-room_goto(rm_final);
+room_goto(rm_prefinal);
 
 
