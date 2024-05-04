@@ -10,12 +10,15 @@ if keyboard_check_pressed(vk_enter)
 	if (keyboard_string == correct_passcode)
 	{
 		room_goto(rm_staffroom);
+		audio_stop_sound(snd_alarm);
+		audio_play_sound(snd_computer_correct, 0, false);
 	} 
 	
 	else 
 	{
 		obj_error.image_alpha=1
 		alarm[0] = 90
+		audio_play_sound(snd_computer_error, 0, false);
 	}
 }
 
