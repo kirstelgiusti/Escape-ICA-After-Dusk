@@ -30,4 +30,6 @@ y=mouse_y+yy;
 if (place_meeting(x, y, obj_lock)) {
    //open shutter
 	room_goto(rm_canteen_open);
+	audio_play_sound(snd_shutter_opening, 0 , false);
+	audio_stop_sound(snd_bruce_eat);
 }

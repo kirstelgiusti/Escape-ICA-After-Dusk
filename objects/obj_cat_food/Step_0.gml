@@ -8,6 +8,8 @@ if (keyboard_check_pressed(vk_space)) {
 		
 	 // Reset the spacebar counter
      spacebar_count = 0;
-		
+	 
+	 //placed here because this is where the food appears, therefore bruce eats
+	audio_play_sound(snd_bruce_eat, 0, true);	
     }
 }

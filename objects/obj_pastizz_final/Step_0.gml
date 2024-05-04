@@ -15,4 +15,5 @@ y=mouse_y+yy;
 if (place_meeting(x, y, obj_hand)) {
    //go to ending scene
 	room_goto(rm_freedom);
+	audio_play_sound(snd_door_opening, 0, false);
 }

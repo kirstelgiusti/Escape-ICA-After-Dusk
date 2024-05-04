@@ -3,7 +3,7 @@
 if (keyboard_check_pressed(vk_space)) {
     spacebar_count += 1;
 	
-	if (spacebar_count >= 5) {
+	if (spacebar_count = 5) {
        audio_play_sound(snd_bruce_meow, 0, false);
 	}
 	

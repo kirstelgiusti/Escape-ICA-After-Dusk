@@ -18,4 +18,5 @@ if (place_meeting(x, y, obj_mannequin)) {
 	image_angle = 270;
 	dragged = false;
 	placed_on_mannequin = true;
+	audio_play_sound(snd_button_object, 0, false);
 }
