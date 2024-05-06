@@ -3,7 +3,7 @@
 
 
 event_inherited();
-dialog.add(spr_bruce, "Meow");
+dialog.add(spr_bruce, "Meow!");
 dialog.add(spr_alarm, "*Alarm rings*");
 dialog.add(spr_character_player, ".... huh?!");
 dialog.add(spr_character_player, "oh no ... I fell asleep.");
