@@ -91,6 +91,7 @@
     {"name":"spr_bruce_down","order":1,"path":"sprites/spr_bruce_down/spr_bruce_down.yy",},
     {"name":"oDialogParent","order":5,"path":"objects/oDialogParent/oDialogParent.yy",},
     {"name":"spr_character_player","order":1,"path":"sprites/spr_character_player/spr_character_player.yy",},
+    {"name":"spr_school","order":11,"path":"sprites/spr_school/spr_school.yy",},
     {"name":"obj_lock","order":2,"path":"objects/obj_lock/obj_lock.yy",},
     {"name":"obj_microwave","order":2,"path":"objects/obj_microwave/obj_microwave.yy",},
     {"name":"rm_credits","order":3,"path":"rooms/rm_credits/rm_credits.yy",},

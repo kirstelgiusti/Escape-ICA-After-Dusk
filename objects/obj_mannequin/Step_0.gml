@@ -4,6 +4,7 @@ if (obj_glasses.placed_on_mannequin && obj_spoon.placed_on_mannequin && obj_wig.
     // Change the sprite of the mannequin to show the button
     sprite_index = spr_mannequin_button;
 	global.mannequin_revealed = true;
+	obj_invisible.clickable = true;
 	
 } else {
     // Keep the sprite of the mannequin to its original sprite
