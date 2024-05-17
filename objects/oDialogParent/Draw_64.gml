@@ -22,10 +22,10 @@ draw_set_valign(fa_top);
 
 //box draw instructions
 
-draw_set_color(c_orange);
+draw_set_color(#FFC56E); //border
 draw_rectangle(0, 0, display_get_gui_width(), height, false);
 
-draw_set_color(c_black);
+draw_set_color(#1E0F00); //bg
 draw_rectangle(border, border, display_get_gui_width() - border, height - border, false);
 
 if(current_dialog.sprite != -1) {
@@ -33,7 +33,7 @@ draw_sprite(current_dialog.sprite, 0, border * 3, border * 3);
 
 }
 
-draw_set_color(c_orange);
+draw_set_color(#FFC56E); //text
 draw_text_ext(text_x, text_y, current_dialog.message, 16, display_get_gui_width() - 192);
 
 draw_text(1510, 93, ">> Press space to continue >>");
@@ -44,3 +44,5 @@ draw_set_alpha(1);
 }
 
 
+// dark brown #1E0F00
+// orange #FFC56E
