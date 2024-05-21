@@ -1,3 +1,4 @@
+
 // Check if spacebar is pressed
 if (keyboard_check_pressed(vk_space)) {
     spacebar_count += 1;
@@ -12,7 +13,8 @@ if (keyboard_check_pressed(vk_space)) {
     }
 }
 
-
+if !instance_exists(oDialogCanteen) 
+{
 //dragging code 
 
 if(dragged==false)
@@ -32,4 +34,6 @@ if (place_meeting(x, y, obj_lock)) {
 	room_goto(rm_canteen_open);
 	audio_play_sound(snd_shutter_opening, 0 , false);
 	audio_stop_sound(snd_bruce_eat);
+}
+
 }

@@ -1,5 +1,6 @@
 // change sprite to open microwave when clicked 
-
+if !instance_exists(oDialogStaffroom) 
+{
 sprite_index = spr_microwave_open; 
 audio_play_sound(snd_microwave_open, 0 ,false);
 
@@ -11,5 +12,6 @@ if(instance_exists(obj_glasses)){
 
 }
 
+}
 
 

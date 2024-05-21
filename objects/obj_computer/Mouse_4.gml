@@ -1,2 +1,5 @@
 //transition to computer room
-room_goto(rm_computer);
+if !instance_exists(oDialogLibrary) && !instance_exists(obj_library_day)
+{
+	room_goto(rm_computer);
+}

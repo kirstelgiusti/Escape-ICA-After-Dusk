@@ -1,3 +1,6 @@
+if !instance_exists(oDialogStaffroom) 
+{
+
 sprite_index = spr_wig_pressed;
 
 // dragging code
@@ -7,3 +10,5 @@ xx=x-mouse_x;
 yy=y-mouse_y;
 
 audio_play_sound(snd_button_object, 0, false);
+
+}

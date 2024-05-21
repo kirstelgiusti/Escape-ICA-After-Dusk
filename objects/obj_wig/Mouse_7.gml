@@ -1,3 +1,5 @@
+if !instance_exists(oDialogStaffroom) 
+{
 sprite_index = spr_wig_pressed; 
 
 //dragging code 
@@ -19,4 +21,6 @@ if (place_meeting(x, y, obj_mannequin)) {
 	dragged = false;
 	placed_on_mannequin = true;
 	audio_play_sound(snd_button_object, 0, false);
+}
+
 }

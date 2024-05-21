@@ -1,5 +1,6 @@
 //dragging code 
-
+if !instance_exists(oDialogStaffroom) 
+{
 
 //to keep the image on the player's cursor
 dragged=true; 
@@ -17,3 +18,4 @@ dragged=true;
 	audio_play_sound(snd_button_object, 0, false);
 }
 
+}

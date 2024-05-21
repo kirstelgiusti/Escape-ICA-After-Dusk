@@ -1,5 +1,6 @@
 //dragging code 
-
+if !instance_exists(oDialogStaffroom) 
+{
 if(dragged==false)
 {
 	exit;
@@ -18,5 +19,7 @@ if (mouse_check_button_pressed(mb_left)) && (place_meeting(x, y, obj_mannequin))
     y = 222;
 	dragged = false;	
 	placed_on_mannequin = true;
+
+}
 
 }

@@ -10,3 +10,6 @@ if (obj_glasses.placed_on_mannequin && obj_spoon.placed_on_mannequin && obj_wig.
     // Keep the sprite of the mannequin to its original sprite
     sprite_index = spr_mannequin;
 }
+
+
+
